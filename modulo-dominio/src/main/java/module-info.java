@@ -1,0 +1,3 @@
+module dominio {
+    exports dominio;
+}
